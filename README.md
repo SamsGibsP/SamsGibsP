@@ -37,12 +37,20 @@ Student in **Engineering Management at ITB** passionate about **Data Science, St
 
 ### 📊 GitHub Analytics
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamsGibsP&theme=flat&no-frame=true&column=6" alt="SamsGibsP Github Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=samsgibsp&theme=flat&no-frame=true&column=6" alt="Trophy" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamsGibsP&show_icons=true&theme=tokyonight&hide_border=true" alt="SamsGibsP GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamsGibsP&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samsgibsp&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsgibsp&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SamsGibsP/SamsGibsP/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
