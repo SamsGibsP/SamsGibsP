@@ -38,10 +38,17 @@ Student in **Engineering Management at ITB** passionate about **Data Science, St
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-now.vercel.app/api?username=SamsGibsP&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=SamsGibsP&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SamsGibsP&theme=flat&no-frame=true&column=6" alt="SamsGibsP Github Trophy" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamsGibsP&show_icons=true&theme=tokyonight&hide_border=true" alt="SamsGibsP GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamsGibsP&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
 </p>
 
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SamsGibsP/SamsGibsP/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 ---
 
 ## 📫 Connect with Me
