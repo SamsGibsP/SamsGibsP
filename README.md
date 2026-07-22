@@ -38,16 +38,16 @@ Student in **Management Engineering at ITB** passionate about **Data Science, Op
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial" alt="Samuel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamsGibsP&show_icons=true&theme=radial" alt="Samuel's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamsGibsP&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ## 📫 Connect with Me
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/samuel-gibson-phang)
-- 🌐 **Portfolio Website:** [your-portfolio-link.com](https://samuelphang-vercel.app)
-- 📧 **Email:** [your.email@example.com](mailto:samsgibsp@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/samuel-gibson-phang](https://linkedin.com/samuel-gibson-phang)
+- 🌐 **Portfolio Website:** [samuelphang-vercel.app](https://samuelphang-vercel.app)
+- 📧 **Email:** [samsgibsp@gmail.com](mailto:samsgibsp@gmail.com)
 
 <!--
 **SamsGibsP/SamsGibsP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
