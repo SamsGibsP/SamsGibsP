@@ -46,7 +46,7 @@ Student in **Management Engineering at ITB** passionate about **Data Science, Op
 
 ## 📫 Connect with Me
 - 💼 **LinkedIn:** [linkedin.com/in/samuel-gibson-phang](https://linkedin.com/samuel-gibson-phang)
-- 🌐 **Portfolio Website:** [samuelphang-vercel.app](https://samuelphang-vercel.app)
+- 🌐 **Portfolio Website:** [samuelphang-vercel.app](https://samuelphang.vercel.app/)
 - 📧 **Email:** [samsgibsp@gmail.com](mailto:samsgibsp@gmail.com)
 
 <!--
