@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Samuel Gibson Phang 👋
 
 Student in **Management Engineering at ITB** passionate about **Data Science, Operations Research, Machine Learning, and Full-Stack Systems**.
@@ -44,6 +42,12 @@ Student in **Management Engineering at ITB** passionate about **Data Science, Op
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
 
+---
+
+## 📫 Connect with Me
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/samuel-gibson-phang)
+- 🌐 **Portfolio Website:** [your-portfolio-link.com](https://samuelphang-vercel.app)
+- 📧 **Email:** [your.email@example.com](mailto:samsgibsp@gmail.com)
 
 <!--
 **SamsGibsP/SamsGibsP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
