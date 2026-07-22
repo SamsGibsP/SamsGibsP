@@ -37,8 +37,6 @@ Student in **Engineering Management at ITB** passionate about **Data Science, St
 
 ### 📊 GitHub Analytics
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=samsgibsp&theme=flat&no-frame=true&column=6" alt="Trophy" />
 </p>
@@ -48,7 +46,6 @@ Student in **Engineering Management at ITB** passionate about **Data Science, St
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsgibsp&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </p>
----
 
 ### 🎮 Contribution Snake
 <p align="center">
