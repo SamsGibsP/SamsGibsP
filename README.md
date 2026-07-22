@@ -48,11 +48,6 @@ Student in **Engineering Management at ITB** passionate about **Data Science, St
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsgibsp&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SamsGibsP/SamsGibsP/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
 ---
 
 ### 🎮 Contribution Snake
