@@ -46,7 +46,7 @@ Student in **Engineering Management at ITB** passionate about **Data Science, St
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=samsgibsp&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samsgibsp&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samsgibsp&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="Top Languages" />
 </p>
 
 <!-- Snake Animation di Bawah -->
