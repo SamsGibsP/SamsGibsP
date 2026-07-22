@@ -38,8 +38,8 @@ Student in **Management Engineering at ITB** passionate about **Data Science, Op
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamsGibsP&show_icons=true&theme=radial" alt="Samuel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamsGibsP&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-now.vercel.app/api?username=SamsGibsP&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=SamsGibsP&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
 
 ---
