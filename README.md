@@ -35,21 +35,23 @@ Student in **Engineering Management at ITB** passionate about **Data Science, St
 
 ---
 
-### 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
+<!-- Streak Stats di Atas -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samsgibsp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<!-- Stats & Languages Sejajar -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=samsgibsp&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=samsgibsp&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samsgibsp&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samsgibsp&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
-### 🎮 Contribution Snake
+<!-- Snake Animation di Bawah -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SamsGibsP/SamsGibsP/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/SamsGibsP/SamsGibsP/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ## 📫 Connect with Me
