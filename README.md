@@ -35,8 +35,7 @@ Student in **Engineering Management at ITB** passionate about **Data Science, St
 
 ---
 
-### 📊 GitHub Analytics
-
+<h2 align="center">📊 GitHub Analytics</h2>
 <!-- Streak Stats di Atas -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samsgibsp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -50,7 +49,7 @@ Student in **Engineering Management at ITB** passionate about **Data Science, St
 </p>
 
 <!-- Snake Animation di Bawah -->
-### 🎮 Contribution Snake
+<h2 align="center">🎮 Contribution Snake</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/SamsGibsP/SamsGibsP/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
