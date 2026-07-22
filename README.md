@@ -38,13 +38,13 @@ Student in **Engineering Management at ITB** passionate about **Data Science, St
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samsgibsp&theme=flat&no-frame=true&column=6" alt="Trophy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samsgibsp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samsgibsp&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=samsgibsp&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsgibsp&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samsgibsp&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
 </p>
 
 ### 🎮 Contribution Snake
