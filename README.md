@@ -35,7 +35,7 @@ Student in **Engineering Management at ITB** passionate about **Data Science, St
 
 ---
 
-## 📈 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SamsGibsP&theme=flat&no-frame=true&column=6" alt="SamsGibsP Github Trophy" />
@@ -46,10 +46,11 @@ Student in **Engineering Management at ITB** passionate about **Data Science, St
 </p>
 
 ---
+
+### 🎮 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SamsGibsP/SamsGibsP/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/SamsGibsP/SamsGibsP/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 </p>
----
 
 ## 📫 Connect with Me
 - 💼 **LinkedIn:** [linkedin.com/in/samuel-gibson-phang](https://linkedin.com/samuel-gibson-phang)
