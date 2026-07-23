@@ -34,7 +34,6 @@ Student in **Engineering Management at ITB** passionate about **Data Science, St
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
 <h2 align="center">📊 GitHub Analytics</h2>
 <!-- Streak Stats di Atas -->
 <p align="center">
@@ -48,6 +47,15 @@ Student in **Engineering Management at ITB** passionate about **Data Science, St
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samsgibsp&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="Top Languages" />
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SamsGibsP&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SamsGibsP&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <!-- Snake Animation di Bawah -->
 <h2 align="center">🎮 Contribution Snake</h2>
 <p align="center">
@@ -58,6 +66,11 @@ Student in **Engineering Management at ITB** passionate about **Data Science, St
 - 💼 **LinkedIn:** [linkedin.com/in/samuel-gibson-phang](https://linkedin.com/samuel-gibson-phang)
 - 🌐 **Portfolio Website:** [samuelphang-vercel.app](https://samuelphang.vercel.app/)
 - 📧 **Email:** [samsgibsp@gmail.com](mailto:samsgibsp@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/SamsGibsP)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@samuelgibsonphang)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@samuelgibsonphang7293)
+---
+[![](https://komarev.com/ghpvc/?username=SamsGibsP&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--
 **SamsGibsP/SamsGibsP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
