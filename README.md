@@ -99,7 +99,8 @@ and many more...
 - 💼 **LinkedIn:** [linkedin.com/in/samuel-gibson-phang](https://linkedin.com/samuel-gibson-phang)
 - 🌐 **Portfolio Website:** [samuelphang-vercel.app](https://samuelphang.vercel.app/)
 - 📧 **Email:** [samsgibsp@gmail.com](mailto:samsgibsp@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/SamsGibsP)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/SamsGibsP)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@samuelgibsonphang)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@samuelgibsonphang7293)
 ---
