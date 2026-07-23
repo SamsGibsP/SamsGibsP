@@ -1,7 +1,7 @@
 # Hi, I'm Samuel Gibson Phang 👋
 
 ### 💫 About Me:
-Student in **Engineering Management at ITB** passionate about **Data Science, Statistics, Operations Research, Machine Learning, and Full-Stack Systems**.
+Final Year Student in **Engineering Management at ITB** passionate about **Data Science, Statistics, Operations Research, Machine Learning, and Full-Stack Systems**.
 
 ---
 
